@@ -1,0 +1,13 @@
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\bin\Debug\netcoreapp3.1\DecisionMakingLab.exe
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\bin\Debug\netcoreapp3.1\DecisionMakingLab.deps.json
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\bin\Debug\netcoreapp3.1\DecisionMakingLab.runtimeconfig.json
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\bin\Debug\netcoreapp3.1\DecisionMakingLab.runtimeconfig.dev.json
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\bin\Debug\netcoreapp3.1\DecisionMakingLab.dll
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\bin\Debug\netcoreapp3.1\DecisionMakingLab.pdb
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.csprojAssemblyReference.cache
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.csproj.CoreCompileInputs.cache
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.AssemblyInfoInputs.cache
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.AssemblyInfo.cs
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.dll
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.pdb
+C:\Users\forne\source\repos\CSHARP\DecisionMakingLab\DecisionMakingLab\obj\Debug\netcoreapp3.1\DecisionMakingLab.genruntimeconfig.cache
