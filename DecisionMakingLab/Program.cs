@@ -31,6 +31,7 @@ namespace DecisionMakingLab
 
                         else if (answer.ToLower() == "n")
                         {
+                            Console.WriteLine("Goodbye");
                             keepAsking = false;
                             goOn = false;
                         }
@@ -57,6 +58,7 @@ namespace DecisionMakingLab
 
                         else if (answer.ToLower() == "n")
                         {
+                            Console.WriteLine("Goodbye");
                             keepAsking = false;
                             goOn = false;
                         }
@@ -83,6 +85,7 @@ namespace DecisionMakingLab
 
                         else if (answer.ToLower() == "n")
                         {
+                            Console.WriteLine("Goodbye");
                             keepAsking = false;
                             goOn = false;
                         }
@@ -109,6 +112,7 @@ namespace DecisionMakingLab
 
                         else if (answer.ToLower() == "n")
                         {
+                            Console.WriteLine("Goodbye");
                             keepAsking = false;
                             goOn = false;
                         }
@@ -135,6 +139,7 @@ namespace DecisionMakingLab
 
                         else if (answer.ToLower() == "n")
                         {
+                            Console.WriteLine("Goodbye");
                             keepAsking = false;
                             goOn = false;
                         }
@@ -161,6 +166,7 @@ namespace DecisionMakingLab
 
                         else if (answer.ToLower() == "n")
                         {
+                            Console.WriteLine("Goodbye");
                             keepAsking = false;
                             goOn = false;
                         }
